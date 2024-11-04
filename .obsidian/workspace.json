@@ -4,18 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1767cb2e400b7a3c",
+        "id": "d0b260b594300a20",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0ae1948e0e2706",
+            "id": "42d8732d4504cc72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University Courses/Yr 2/Sem 1/PS/II_1_PS_C2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "II_1_PS_C2"
+            }
+          },
+          {
+            "id": "25271b06b1c5af9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "II_1_PS_C1"
+            }
+          },
+          {
+            "id": "6c95a61a89a2a345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "II_I_AF_C5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "II_I_AF_C5"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -35,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,15 +97,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0b973c5b4f4b984e",
@@ -82,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for II_1_PS_C1"
             }
           },
           {
@@ -98,9 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from II_1_PS_C1"
             }
           },
           {
@@ -111,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -119,7 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of II_1_PS_C1"
             }
           },
           {
@@ -127,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -148,15 +202,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c0ae1948e0e2706",
+  "active": "6c95a61a89a2a345",
   "lastOpenFiles": [
-    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C3.md",
-    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C2.md",
     "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md",
+    "II_I_AF_C5.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C3.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_L2.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C2.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS.md",
+    "2024-10-29.md",
+    "II_1_PDG_S3.md",
     "University Courses/Yr 2/Sem 1/SO/II_1_SO_C1.md",
     "University Courses/Yr 2/Sem 1/PDG/II_1_PDG_C2.md",
     "University Courses/Yr 2/Sem 1/AF/II_1_AF_C1.md",
-    "University Courses/Yr 2/Sem 1/PS/II_1_PS_L2.md",
     "University Courses/Yr 2/Sem 1/AF/II_1_AF_C3.md",
     "I have no mouth and I must=scream.md",
     "University Courses/Yr 2/Sem 1/AF/II_1_AF_C2.md",
