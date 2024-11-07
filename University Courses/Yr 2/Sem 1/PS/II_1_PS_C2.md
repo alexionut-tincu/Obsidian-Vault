@@ -15,7 +15,7 @@ $\mathbb{P}(A|B)=\frac{\mathbb{P}(A\cap B)}{\mathbb{P}(B)}\Leftrightarrow\mathbb
 
 #### Definitie (Independenta)
 Numim $A$ si $B$ independente daca $\mathbb{P}(A|B)=\mathbb{P}(A)\Leftrightarrow\mathbb{P}(A\cap B)=\mathbb{P}(A)\cdot\mathbb{P}(B)$.
-$\newcommand{\indep}{\perp \!\!\! \perp}$Notatite $A\indep B$
+$\newcommand{\indep}{\perp \!\!\! \perp}$ Notatite $A\indep B$
 
 #### Exemple
 i) Ce secvente de aruncari de monede este mai probabila?
