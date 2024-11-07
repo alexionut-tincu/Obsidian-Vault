@@ -128,16 +128,6 @@
             }
           },
           {
-            "id": "3bc2f2b30c12c537",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "59b895b13586d0b2",
             "type": "leaf",
             "state": {
@@ -149,9 +139,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
+          },
+          {
+            "id": "4ecf9ec11801946d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bc2f2b30c12c537",
+  "active": "589e3abadef872f1",
   "lastOpenFiles": [
     "II_1_PS_LP1.md",
     "University Courses/Yr 2/Sem 1/PS/II_1_PS_C2.md",
