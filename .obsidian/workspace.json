@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18243162cd2f1da8",
+        "id": "f7acbb5d884b746f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e526405ef1a7e96",
+            "id": "b82ada3f61f6b832",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,9 +169,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589e3abadef872f1",
+  "active": "350f2c15a8a8ed35",
   "lastOpenFiles": [
-    "II_1_PS_LP1.md",
+    "University Courses/Yr 2/Sem 2/Resources",
+    "University Courses/Yr 2/Sem 2/Courses",
+    "University Courses/Yr 2/Sem 2/Inbox",
+    "Untitled.md",
+    "University Courses/Yr 2/Sem 2/Courses/PAO",
+    "University Courses/Yr 2/Sem 2/Courses/RC",
+    "University Courses/Yr 2/Sem 2/Courses/MDS",
+    "University Courses/Yr 2/Sem 2/Courses/FLP",
+    "University Courses/Yr 2/Sem 2/Courses/AA",
+    "University Courses/Yr 2/Sem 2/Courses/IA",
+    "University Courses/Yr 2/Sem 2/Courses/PDG",
+    "University Courses/Yr 2/Sem 2",
+    "II_1_PDG_S3.md",
+    "I have no mouth and I must=scream.md",
+    "2024-10-29.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_LP1.md",
     "University Courses/Yr 2/Sem 1/PS/II_1_PS_C2.md",
     "University Courses/Yr 2/Sem 1/PS/II_1_PS_L2.md",
     "University Courses/Yr 2/Sem 1/SO/II_1_SO_C1.md",
@@ -188,23 +204,8 @@
     "Obsidian-Vault/University Courses/Yr 2/Sem 1/AF/II_1_AF_C3.md",
     "Obsidian-Vault/University Courses/Yr 2/Sem 1/AF/II_1_AF_C2.md",
     "Obsidian-Vault/University Courses/Yr 2/Sem 1/AF/II_1_AF_C1.md",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1/SO",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1/SGBD",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1/PS",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1/PF",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1/PDG",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1/AF",
-    "Obsidian-Vault/University Courses/Yr 2/Sem 1",
-    "Obsidian-Vault/University Courses/Yr 2",
-    "Obsidian-Vault/University Courses",
     "Obsidian-Vault/II_I_AF_C5.md",
     "Obsidian-Vault/II_1_PDG_S3.md",
-    "Obsidian-Vault/I have no mouth and I must=scream.md",
-    "Obsidian-Vault/2024-10-29.md",
-    "Obsidian-Vault",
-    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md",
-    "conflict-files-obsidian-git.md",
-    "University Courses/Yr 2/Sem 1/PS/II_1_PS.md",
-    "II_I_AF_C5.md"
+    "Obsidian-Vault/I have no mouth and I must=scream.md"
   ]
 }

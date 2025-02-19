@@ -29,5 +29,12 @@ $\mathbb{P}(S)=1-(0.32+0.46-0.29)$
 $\mathbb{P}(S)=0.51$
 
 ## Exercițiul 3
-Pariem o sumă de $s$ lei pe o aruncare cu banul. Dacă pică cap, primim $100\cdot a\%$ din sumă, iar dacă pică pajură, pierdem $100\cdot b\%$ din sumă, unde $[a,b]\in[0,1]$ astfel încât $a>b$. Prin urmare, a juca o singură dată acest joc este avantajos pentru noi. Pentru ce valori alre lui $a$ și $b$ jucarea de mai multe ori a acestui joc este dezavantajoasă pentru noi? (Exemplu: Valorile $a=0.5$ și $b=0.4$ discutate în cursul 1).
+Pariem o sumă de $s$ lei pe o aruncare cu banul. Dacă pică cap, primim $100\cdot a\%$ din sumă, iar dacă pică pajură, pierdem $100\cdot b\%$ din sumă, unde $[a,b]\in[0,1]$ astfel încât $a>b$. Prin urmare, a juca o singură dată acest joc este avantajos pentru noi. Pentru ce valori ale lui $a$ și $b$ jucarea de mai multe ori a acestui joc este dezavantajoasă pentru noi? (Exemplu: Valorile $a=0.5$ și $b=0.4$ discutate în cursul 1).
 
+$\frac{e^{-1-jk2\overline{u}}-1}{-1-jk2\overline{u}}=\frac{-e^{-1}+1}{1+jk2\overline{u}}$
+
+```math
+\frac{1}{2}
+```
+
+$$I_D=\mathcal{g_0}\left\{(V_{GS}-V_T)-\frac{2}{3}\left[\left(\phi_{B\mathcal{0}}-V_T\right)-\left(\phi_{B\mathcal{0}}-V_{GS}\right)^{\frac{3}{2}}\cdot\left(\phi_{B\mathcal{0}}-V_T\right)^{-\frac{1}{2}}\right]\right\}$$
